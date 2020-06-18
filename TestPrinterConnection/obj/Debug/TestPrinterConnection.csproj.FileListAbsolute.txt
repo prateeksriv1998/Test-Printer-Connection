@@ -1,0 +1,6 @@
+C:\Users\Prateek\source\repos\TestPrinterConnection\TestPrinterConnection\obj\Debug\TestPrinterConnection.csprojAssemblyReference.cache
+C:\Users\Prateek\source\repos\TestPrinterConnection\TestPrinterConnection\bin\Debug\TestPrinterConnection.exe.config
+C:\Users\Prateek\source\repos\TestPrinterConnection\TestPrinterConnection\bin\Debug\TestPrinterConnection.exe
+C:\Users\Prateek\source\repos\TestPrinterConnection\TestPrinterConnection\bin\Debug\TestPrinterConnection.pdb
+C:\Users\Prateek\source\repos\TestPrinterConnection\TestPrinterConnection\obj\Debug\TestPrinterConnection.exe
+C:\Users\Prateek\source\repos\TestPrinterConnection\TestPrinterConnection\obj\Debug\TestPrinterConnection.pdb
